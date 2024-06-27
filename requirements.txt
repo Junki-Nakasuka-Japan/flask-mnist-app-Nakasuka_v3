@@ -15,7 +15,7 @@ google-pasta==0.2.0
 grpcio==1.64.1
 h5py==3.11.0
 idna==3.7
-ifcopenshell==0.7.0.240521
+ifcopenshell==0.6.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
 joblib==1.4.2
